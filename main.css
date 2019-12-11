@@ -55,6 +55,7 @@ canvas {
     color: #f5dfad;
 }
 
+
 .modal-content{
     background: rgba(255, 255, 255, 0.5);
 }
@@ -185,7 +186,7 @@ input.form-control {
 }
 .modal-body{
     padding: 20px 35px;
-    padding-top: 40px;
+    padding-top: 40px;   
 }
 
 span.modal-close{
