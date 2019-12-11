@@ -33,3 +33,21 @@ Though not WebGL specific, it was still very useful.<br/>
 Fluid simulation framework by <a href="http://www.amandaghassaei.com/" target="_blank">Amanda Ghassaei</a>, code on <a href="https://github.com/amandaghassaei/FluidSimulation" target="_blank">Github</a>.
           
 Website design by Jamie Edwards, jmcedwards@live.co.uk.      
+
+## Issues
+
+The left button works and when clicked brings up the information about that album, bellow is the html code for the button and page it brings up (in the file index.html).
+
+<img style="width:100%" src="left_button_html.png"/>
+
+The css for the left button is shown bellow (in the file main.css).
+
+<img style="width:100%" src="left_button_css.png"/>
+
+However the right button doesn't work. I am unsure how to link the button to bring up the page in the same way as with the left button. I recon the issue is with the href line (line 463) as shown bellow along with the page it's supposed to bring up.
+
+<img style="width:100%" src="right_button_html.png"/>
+
+The css for the right button is shown bellow (in the file main.css).
+
+<img style="width:100%" src="right_button_css.png"/>
