@@ -27,21 +27,36 @@ canvas {
     height: 100%;
 }
 
+/* centering happens from top right point */
 
 #about{
     position: absolute;
     z-index: 6;
-    top:0;
-    right:0;
+    top:37.5%;
+    right:60%;
     background: rgba(40, 40, 40, 0.7);
-    width: 30px;
+    width: 15%;
     text-align: center;
+    padding: 0.5% 0.5%;
+    position: absolute;
+    color: #f5dfad;
+}
+
+#about2{
+    position: absolute;
+    z-index: 6;
+    top:37.5%;
+    right:25%;
+    background: rgba(40, 40, 40, 0.7);
+    width: 15%;
+    text-align: center;
+    padding: 0.5% 0.5%;
     position: absolute;
     color: #f5dfad;
 }
 
 .modal-content{
-    background: rgba(255, 255, 255, 0.92);
+    background: rgba(255, 255, 255, 0.5);
 }
 
 .sliderInput{
