@@ -16,7 +16,7 @@ these particles are rendered using <a href="https://threejs.org/" target="_blank
 
 ## Instrutctions
 
-Move the mouse over the webpage to apply a force to the fluid. Over time, the colored material in the fluid will dissipate:
+Move the mouse over the webpage to apply a force to the fluid. Over time, the colored material in the fluid will dissipate.
 
 ## Maths
 
@@ -26,8 +26,7 @@ To learn more about the maths involved, check out the following sources:<br/>
 2. <a href="http://developer.download.nvidia.com/books/HTML/gpugems/gpugems_ch38.html" target="_blank">Fast Fluid Dynamics Simulation on the GPU</a> - a very well written tutorial about programming the Navier-Stokes equations on a GPU.
 Though not WebGL specific, it was still very useful.<br/>
 3. <a href="http://jamie-wong.com/2016/08/05/webgl-fluid-simulation/" target="_blank">Fluid Simulation (with WebGL demo)</a> - this article has some nice, interactive graphics that helped me debug my code.<br/>
-4. <a href="http://www.dgp.toronto.edu/people/stam/reality/Research/pdf/ns.pdf" target="_blank">Stable Fluids</a> - a paper about stable numerical methods for evaluating Navier-Stokes on a discrete grid.<br/>
-<br/>
+4. <a href="http://www.dgp.toronto.edu/people/stam/reality/Research/pdf/ns.pdf" target="_blank">Stable Fluids</a> - a paper about stable numerical methods for evaluating Navier-Stokes on a discrete grid.
 
 ## Credits
 
