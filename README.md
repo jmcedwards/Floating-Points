@@ -30,7 +30,6 @@ The two clickable buttons bring up scrollable overlays containing the album artw
 
 <img style="width:100%" src="example2.png"/>
 
-
 ## Credits
 
 Fluid simulation framework by <a href="http://www.amandaghassaei.com/" target="_blank">Amanda Ghassaei</a>, code on <a href="https://github.com/amandaghassaei/FluidSimulation" target="_blank">Github</a>.
