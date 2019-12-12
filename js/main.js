@@ -37,6 +37,11 @@ function init() {
         $("#aboutModal").modal('show');
     });
 
+    $("#about2").click(function(e){
+        e.preventDefault();
+        $("#aboutModal2").modal('show');
+    });
+
     canvas = document.getElementById("glcanvas");
     body = document.getElementsByTagName("body")[0];
 

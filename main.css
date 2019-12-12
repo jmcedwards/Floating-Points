@@ -27,6 +27,10 @@ canvas {
     height: 100%;
 }
 
+p {
+  margin: 0px;
+}
+
 /* centering happens from top right point */
 
 #about{
